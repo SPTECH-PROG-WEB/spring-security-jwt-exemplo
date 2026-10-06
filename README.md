@@ -1,6 +1,6 @@
 # Da Senha ao Token: Autenticação JWT com Spring Boot 4
 
-> **Branch:** `main` | Spring Boot 4.0.5 | Java 21 LTS | JJWT 0.12.6
+> **Branch:** `main` | Spring Boot 4.1.1 | Java 21 LTS | JJWT 0.12.6
 
 ---
 
@@ -492,4 +492,4 @@ Esta é a versão principal com Spring Boot 4. Para variações desta implementa
 
 ---
 
-*Projeto educacional | SPTech | Spring Boot 4.0.5 + Spring Security 7 + JJWT 0.12.6*
+*Projeto educacional | SPTech | Spring Boot 4.1.1 + Spring Security 7 + JJWT 0.12.6*
